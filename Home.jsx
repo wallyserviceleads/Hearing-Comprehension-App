@@ -1,6 +1,3 @@
-+929
--0
-
 import React, { useState, useRef } from 'react';
 import { Volume2, Check, X, RotateCcw, Play, Settings, TrendingUp, Plus } from 'lucide-react';
 
